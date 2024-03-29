@@ -1581,7 +1581,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: -180.391, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.189, y: 0.149}
+  m_AnchoredPosition: {x: -0.182, y: 0.149}
   m_SizeDelta: {x: 20, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!23 &856469693453431945
@@ -1906,7 +1906,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Mod
+  m_text: Moderator
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 20baba7fca31ab74f936afe0f5a59a8c, type: 2}
   m_sharedMaterial: {fileID: -1317541720951873115, guid: 20baba7fca31ab74f936afe0f5a59a8c, type: 2}
@@ -3495,7 +3495,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5184892713328936402}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b2d8418b0b9634b1892b0268dd9c2743, type: 3}
   m_Name: 
@@ -3860,7 +3860,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: -180.391, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.21552, y: 0.14076}
+  m_AnchoredPosition: {x: -0.197, y: 0.14076}
   m_SizeDelta: {x: 20, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!23 &1350241597346064272
@@ -4096,7 +4096,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: -180.391, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0119999945, y: 0.215}
+  m_AnchoredPosition: {x: -0.025, y: 0.215}
   m_SizeDelta: {x: 20, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!23 &5565510251300190139
@@ -4925,7 +4925,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: -180.391, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.137, y: 0.149}
+  m_AnchoredPosition: {x: -0.117, y: 0.149}
   m_SizeDelta: {x: 20, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!23 &4014261075393641787
@@ -5197,10 +5197,10 @@ MonoBehaviour:
   interpolate: 1
   jiggleRigs:
   - rootTransform: {fileID: 5339511393685115604}
-    jiggleSettings: {fileID: 11400000, guid: 4ac7f8309c6332a41a6e0716a1bf34a1, type: 2}
+    jiggleSettings: {fileID: 11400000, guid: 16cfa5034e5bba846829689eb6c3d6e3, type: 2}
     ignoredTransforms: []
   - rootTransform: {fileID: 454313047513133426}
-    jiggleSettings: {fileID: 11400000, guid: 4ac7f8309c6332a41a6e0716a1bf34a1, type: 2}
+    jiggleSettings: {fileID: 11400000, guid: 16cfa5034e5bba846829689eb6c3d6e3, type: 2}
     ignoredTransforms: []
   debugDraw: 0
 --- !u!114 &3628300066555187433
@@ -5219,10 +5219,10 @@ MonoBehaviour:
   jiggleZones:
   - target: {fileID: 5339511393685115604}
     radius: 0
-    jiggleSettings: {fileID: 11400000, guid: 4ac7f8309c6332a41a6e0716a1bf34a1, type: 2}
+    jiggleSettings: {fileID: 11400000, guid: 16cfa5034e5bba846829689eb6c3d6e3, type: 2}
   - target: {fileID: 454313047513133426}
     radius: 0
-    jiggleSettings: {fileID: 11400000, guid: 4ac7f8309c6332a41a6e0716a1bf34a1, type: 2}
+    jiggleSettings: {fileID: 11400000, guid: 16cfa5034e5bba846829689eb6c3d6e3, type: 2}
   targetSkins:
   - {fileID: 525674763932011677}
   debugDraw: 0
@@ -5358,7 +5358,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -5770,7 +5770,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: -180.391, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.05552, y: 0.149}
+  m_AnchoredPosition: {x: -0.046, y: 0.149}
   m_SizeDelta: {x: 20, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!23 &3096809713743860161
